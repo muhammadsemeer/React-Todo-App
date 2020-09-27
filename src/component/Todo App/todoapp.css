@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-color: #17d0e7;
-    font-family: sans-serif;
+    font-family:  'Poppins', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .todo-container {
@@ -24,6 +24,11 @@ p {
     background: #17d0e7;
     box-shadow: 35px 35px 70px #14b1c4, -35px -35px 70px #1aefff;
 }
+
+.input-form p {
+    color: #2e2f30ce;
+}
+
 .input-section {
     width: 100%;
     display: grid;
@@ -40,8 +45,16 @@ button {
     box-sizing: border-box;
 }
 
+.input-section button {
+    padding: 0;
+}
+
 input::placeholder {
     color: #14b1c4;
+}
+
+.todo-items{
+    min-height: 450px;
 }
 
 ul {
@@ -55,10 +68,19 @@ ul li {
     padding: 15px;
     margin-bottom: 10px;
     width: 100%;
-    color: grey;
+    color: #2e2f30ce;
     border-radius: 10px;
     background: #17d0e7;
     box-shadow: 35px 35px 70px #14b1c4, -35px -35px 70px #1aefff;
     display: grid;
-    grid-template-columns: 90% 10%;
+    grid-template-columns: 10% 70% 10% 10%;
+}
+.completed {
+    text-decoration: line-through;
+    font-style: italic;
+}
+@media (max-width: 350px) {
+    .todo-container {
+        width: 300px;
+    }
 }
