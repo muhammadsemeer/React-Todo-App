@@ -9,7 +9,7 @@ This a Todo App Developed Using React Js
 
 #### This will also work in offline
 
-## Using In Desktops
+## Using The App In Desktops
 
 You Can Use as It on your desktop by adding as extension on your fav browser
 
@@ -21,6 +21,7 @@ You Can Use as It on your desktop by adding as extension on your fav browser
     1. You Can See A Plus button on Top Right Corner of Search Bar
     1. Click On It and Install The App
     1. Go to Your Desktop then You Can See the Todo App
+## Using The App In Smartphones
 1. Installing the app to your SmartPhone
     1. Goto Options
     1. Click Add to Home Screen Button
