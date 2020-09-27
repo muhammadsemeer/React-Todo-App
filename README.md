@@ -23,6 +23,8 @@ You Can Use as It on your desktop by adding as extension on your fav browser
     1. Go to Your Desktop then You Can See the Todo App
 ## Using The App In Smartphones
 1. Installing the app to your SmartPhone
+    1. Open Your Google Chrome Browser
+    1. Open this link [https://muhammadsemeer.github.io/React-Todo-App/](https://muhammadsemeer.github.io/React-Todo-App/)
     1. Goto Options
     1. Click Add to Home Screen Button
     1. Click Add
