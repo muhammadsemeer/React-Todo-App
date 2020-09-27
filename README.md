@@ -1,19 +1,19 @@
-##Todo App
-###Using React Js
+## Todo App
+### Using React Js
 
 This a Todo App Developed Using React Js
 
 [Click Here To Preview of App](https://muhammadsemeer.github.io/React-Todo-App/)
 
-####You Can Use This App in any Devices and cross-platform compatible
+#### You Can Use This App in any Devices and cross-platform compatible
 
-####This will also work in offline
+#### This will also work in offline
 
-##Using In Desktops
+## Using In Desktops
 
 You Can Use as It on your desktop by adding as extension on your fav browser
 
-###Follow The Instrcutions
+### Follow The Instrcutions
 
 1. Open Your Google Chrome Browser
 1. Open this link [https://muhammadsemeer.github.io/React-Todo-App/](https://muhammadsemeer.github.io/React-Todo-App/)
@@ -27,4 +27,4 @@ You Can Use as It on your desktop by adding as extension on your fav browser
     1. Click Add
     1. Go to Apps pages then you can see the Todo App
 
-##NB: If you clear the browser cache all datas in the todo app will lost and never be restored.
+## NB: If you clear the browser cache all datas in the todo app will lost and never be restored.
